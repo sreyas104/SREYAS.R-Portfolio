@@ -7625,7 +7625,7 @@ footer span i {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 5px solid purple;
+  border: 5px solid #5bc0de;
 }
 
 .about-section {
@@ -7669,7 +7669,7 @@ footer span i {
 
 .progress .progress-bar, .progress .progress-bar.progress-bar-default {
   /* background-color: #f11868d0; */
-  background-color: purple;
+  background-color: #5bc0de;
 }
 
 .progress .progress-bar {
@@ -7931,7 +7931,7 @@ footer span i {
 .underline {
   height: 5px;
   width: 150px;
-  background-color: rgba(128, 0, 128, 0.801);
+  background-color: #5bc0de;
   margin: 0;
   padding: 0;
   border-radius: 5px;
